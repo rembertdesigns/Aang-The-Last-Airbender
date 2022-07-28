@@ -1,6 +1,8 @@
 # The Last Airbender | Pure CSS
 
 You can change the state of Aang just by hovering over the character using CSS animation.
+<img width="1681" alt="Screen Shot 2022-07-28 at 5 23 03 PM" src="https://user-images.githubusercontent.com/105387636/181640094-86f777a5-4ea8-4f02-a23e-37e8cc59e52f.png">
+
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/rembertdesigns/pen/vYpNPME](https://codepen.io/rembertdesigns/pen/vYpNPME).
 
